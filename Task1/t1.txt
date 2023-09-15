@@ -1,0 +1,3 @@
+Create EventBridge Rule and Stop EC@ Instances (AppServer1 and AppServer2)
+Start Ec2 Instance (AppServer2)
+Stop RDS Instance (DBServer1)

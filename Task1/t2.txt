@@ -1,0 +1,1 @@
+Analyze the cloudwatch logs and figure out who is stopping the Instance

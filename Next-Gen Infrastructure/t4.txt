@@ -2,3 +2,5 @@ three tasks were clubbed together.
 first transfer data from NFS server to Amazon s3 bucket.
 enable versioning for the created bucket
 retrieve a deleted file from the bucket
+
+cloud migration 
